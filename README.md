@@ -1,1 +1,1 @@
-# big_data_base
+# school database with postgreSql
